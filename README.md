@@ -2,7 +2,9 @@
 Day 1: Learning how OS works from scratch.<br>  
 Day 2: C basics, memory address, kernel concept started.<br>  
 Day 3: C arrays, pointers, process basics.  
-Day 4: Linux file permissions, C functions & pointers, system call basics.
+Day 4: Linux file permissions, C functions & pointers, system call basics.  
+Day 5: Process control, structs, scheduling basics.
+
 
 
 
