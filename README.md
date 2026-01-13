@@ -10,7 +10,9 @@ Day 7: Heap memory, stack vs heap, users & permissions.
 Day 8: Strings, pointers, virtual memory basics.  
 Day 9: Process signals, fork(), parent-child processes.  
 Day 10: fork + exec, process execution flow.  
-Day 11: File redirection, pipes, low-level file descriptors.
+Day 11: File redirection, pipes, low-level file descriptors.  
+Day 12: Device files, /dev, error handling basics.
+
 
 
 
