@@ -13,7 +13,9 @@ Day 10: fork + exec, process execution flow.
 Day 11: File redirection, pipes, low-level file descriptors.  
 Day 12: Device files, /dev, error handling basics.  
 Day 13: Boot files, kernel info, bitwise operations, modules.  
-Day 14: systemd basics, Makefile, C project structure.
+Day 14: systemd basics, Makefile, C project structure.  
+Day 15: Time, sleep, scheduling basics.
+
 
 
 
